@@ -22,6 +22,6 @@ read 100 chars
 read 100 chars
 read 100 chars
 read 100 chars
-read 86 chars
+read 90 chars
 The file has 490 bytes
 ```
